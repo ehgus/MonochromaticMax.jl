@@ -1,0 +1,7 @@
+name = "MonochromaticMax"
+uuid = "e5732cc5-c830-4159-b260-4a8851693533"
+authors = ["comDo "]
+version = "0.1.0"
+
+[deps]
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
